@@ -1,0 +1,16 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "A Bot which is smarter than you'll ever be.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ankit Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "nodemon": "^1.18.9",
+    "slackbots": "^1.2.0"
+  }
+}
